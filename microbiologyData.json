@@ -1366,9 +1366,9 @@
 
     {"title":"Respiratory Infections","available":false,"topics":[
         {"title":"Virus family","questions":[
-            {"answers":[{"text":"Herpangina","isCorrect":1},{"text":"Common cold","isCorrect":0},{"text":"Influenza","isCorrect":0},{"text":"COVID 19","isCorrect":0}],"text":"Picornavirus (enteroviruses)"},
-            {"answers":[{"text":"Herpangina","isCorrect":0},{"text":"COVID 19","isCorrect":1},{"text":"Common cold","isCorrect":0},{"text":"Influenza","isCorrect":0}],"text":"Coronavirus"},
-            {"answers":[{"text":"COVID 19","isCorrect":0},{"text":"Herpangina","isCorrect":0},{"text":"Influenza","isCorrect":1},{"text":"Common cold","isCorrect":0}],"text":"Orthomyxovirus"},
+            {"answers":[{"text":"Herpangina","isCorrect":1},{"text":"Common cold","isCorrect":0},{"text":"Influenza","isCorrect":0},{"text":"Rhinovirus","isCorrect":0}],"text":"Enteroviruses"},
+            {"answers":[{"text":"Herpangina","isCorrect":0},{"text":"Common cold","isCorrect":1},{"text":"Rhinovirus","isCorrect":0},{"text":"Influenza","isCorrect":0}],"text":"Rhinovirus"},
+            {"answers":[{"text":"Common cold","isCorrect":0},{"text":"Herpangina","isCorrect":0},{"text":"Influenza","isCorrect":1},{"text":"Rhinovirus","isCorrect":0}],"text":"Orthomyxovirus"},
             {"answers":[{"text":"Hantavirus pulmonary syndrome","isCorrect":0},{"text":"Febrile pharyngitis","isCorrect":0},{"text":"Common cold","isCorrect":0},{"text":"Croup","isCorrect":1}],"text":"Paramyxoviruses"},
             {"answers":[{"text":"Common cold","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":1},{"text":"Croup","isCorrect":0},{"text":"Febrile pharyngitis","isCorrect":0}],"text":"Bunyaviruses"},
             {"answers":[{"text":"Hantavirus pulmonary syndrome","isCorrect":0},{"text":"Common cold","isCorrect":0},{"text":"Febrile pharyngitis","isCorrect":0},{"text":"Acute respiratory syndrome","isCorrect":1}],"text":"Adenoviruses"}
@@ -1377,33 +1377,33 @@
         {"title":"Pathogen","questions":[
             {"answers":[{"text":"Influenza","isCorrect":0},{"text":"Common cold","isCorrect":0},{"text":"Croup","isCorrect":0},{"text":"Herpangina","isCorrect":1}],"text":"Coxcakievirus"},
             {"answers":[{"text":"Common cold","isCorrect":1},{"text":"Croup","isCorrect":0},{"text":"Herpangina","isCorrect":0},{"text":"Influenza","isCorrect":0}],"text":"Rhinovirus"},
-            {"answers":[{"text":"Coronavirus","isCorrect":1},{"text":"Influenza","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0},{"text":"Croup","isCorrect":0}],"text":"Coronavirus"},
-            {"answers":[{"text":"Croup","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0},{"text":"Coronavirus","isCorrect":0},{"text":"Influenza","isCorrect":1}],"text":"Influenza virus"},
-            {"answers":[{"text":"Coronavirus","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0},{"text":"Influenza","isCorrect":0},{"text":"Croup","isCorrect":1}],"text":"Paramyxoviruses"},
-            {"answers":[{"text":"Influenza","isCorrect":0},{"text":"Croup","isCorrect":0},{"text":"Bronchiolitis","isCorrect":1},{"text":"Coronavirus","isCorrect":0}],"text":"Metapenumovirus"},
+            {"answers":[{"text":"Rhinovirus","isCorrect":1},{"text":"Influenza","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0},{"text":"Croup","isCorrect":0}],"text":"Rhinovirus"},
+            {"answers":[{"text":"Croup","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0},{"text":"Rhinovirus","isCorrect":0},{"text":"Influenza","isCorrect":1}],"text":"Influenza virus"},
+            {"answers":[{"text":"Rhinovirus","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0},{"text":"Influenza","isCorrect":0},{"text":"Croup","isCorrect":1}],"text":"Paramyxoviruses"},
+            {"answers":[{"text":"Influenza","isCorrect":0},{"text":"Croup","isCorrect":0},{"text":"Bronchiolitis","isCorrect":1},{"text":"Rhinovirus","isCorrect":0}],"text":"Metapenumovirus"},
             {"answers":[{"text":"Croup","isCorrect":0},{"text":"Acute respiratory syndrome","isCorrect":0},{"text":"Influenza","isCorrect":0},{"text":"Febrile pharyngitis","isCorrect":1}],"text":"Adenovirus"},
             {"answers":[{"text":"Febrile pharyngitis","isCorrect":0},{"text":"Acute respiratory syndrome","isCorrect":1},{"text":"Influenza","isCorrect":0},{"text":"Croup","isCorrect":0}],"text":"Adenovirus strains 4 and 7"}
         ]},
 
         {"title":"Reservoir","questions":[
-            {"answers":[{"text":"Croup","isCorrect":1},{"text":"Acute respiratory syndrome","isCorrect":1},{"text":"Influenza","isCorrect":0},{"text":"COVID 19","isCorrect":1}],"text":"Humans"},
-            {"answers":[{"text":"Influenza","isCorrect":0},{"text":"COVID 19","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":1},{"text":"Croup","isCorrect":0}],"text":"Field mice"},
-            {"answers":[{"text":"COVID 19","isCorrect":1},{"text":"Influenza","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":0},{"text":"Croup","isCorrect":0}],"text":"Humans (SARS and MERS are zoonotic in origin)"}
+            {"answers":[{"text":"Croup","isCorrect":1},{"text":"Acute respiratory syndrome","isCorrect":1},{"text":"Influenza","isCorrect":0},{"text":"Common cold","isCorrect":1}],"text":"Humans"},
+            {"answers":[{"text":"Influenza","isCorrect":0},{"text":"Common cold","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":1},{"text":"Croup","isCorrect":0}],"text":"Field mice"},
+            {"answers":[{"text":"Common cold","isCorrect":1},{"text":"Influenza","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":0},{"text":"Croup","isCorrect":0}],"text":"Humans (SARS and MERS are zoonotic in origin)"}
         ]},
 
         {"title":"Pathogenesis","questions":[
-            {"answers":[{"text":"Common cold","isCorrect":1},{"text":"COVID 19","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":0},{"text":"Croup","isCorrect":0}],"text":"Non-enveloped virus, multiple strains (>150), easily transmissible"},
-            {"answers":[{"text":"Croup","isCorrect":0},{"text":"Influenza","isCorrect":1},{"text":"COVID 19","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0}],"text":"Enveloped segmented RNA virus, antigenic drift (high mutation rate of viral RNA polymerase) , antigenic shift (RNA segment reassortment), causes pandemics, M2 protein, hemagglutinin, neuraminidase/sialidase, can promote secondary bacterial pneumonia"},
-            {"answers":[{"text":"Bronchiolitis","isCorrect":0},{"text":"Influenza","isCorrect":0},{"text":"Croup","isCorrect":1},{"text":"COVID 19","isCorrect":0}],"text":"Enveloped virus, cough and inflammation and edema of the upper airway and leading to  varying degrees of obstruction. "},
-            {"answers":[{"text":"COVID 19","isCorrect":0},{"text":"Bronchiolitis","isCorrect":1},{"text":"Croup","isCorrect":0},{"text":"Influenza","isCorrect":0}],"text":"As per RSV"},
+            {"answers":[{"text":"Common cold","isCorrect":1},{"text":"Herpangina","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":0},{"text":"Croup","isCorrect":0}],"text":"Non-enveloped virus, multiple strains (>150), easily transmissible"},
+            {"answers":[{"text":"Croup","isCorrect":0},{"text":"Influenza","isCorrect":1},{"text":"Common cold","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0}],"text":"Enveloped segmented RNA virus, antigenic drift (high mutation rate of viral RNA polymerase) , antigenic shift (RNA segment reassortment), causes pandemics, M2 protein, hemagglutinin, neuraminidase/sialidase, can promote secondary bacterial pneumonia"},
+            {"answers":[{"text":"Bronchiolitis","isCorrect":0},{"text":"Influenza","isCorrect":0},{"text":"Croup","isCorrect":1},{"text":"Common cold","isCorrect":0}],"text":"Enveloped virus, cough and inflammation and edema of the upper airway and leading to  varying degrees of obstruction. "},
+            {"answers":[{"text":"Common cold","isCorrect":0},{"text":"Bronchiolitis","isCorrect":1},{"text":"Croup","isCorrect":0},{"text":"Influenza","isCorrect":0}],"text":"As per RSV"},
             {"answers":[{"text":"Bronchiolitis","isCorrect":0},{"text":"Croup","isCorrect":0},{"text":"Febrile pharyngitis","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":1}],"text":"Provokes cytokine storm"},
             {"answers":[{"text":"Croup","isCorrect":0},{"text":"Febrile pharyngitis","isCorrect":1},{"text":"Bronchiolitis","isCorrect":0},{"text":"Hantavirus pulmonary syndrome","isCorrect":0}],"text":"Nonenveloped virus"}
         ]},
 
         {"title":"Clinical Presentation","questions":[
             {"answers":[{"text":"Herpangina","isCorrect":1},{"text":"Croup","isCorrect":0},{"text":"Common cold","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0}],"text":"Sore throat, vessicular lesions in the back of oral cavity"},
-            {"answers":[{"text":"Croup","isCorrect":0},{"text":"Herpangina","isCorrect":0},{"text":"COVID 19","isCorrect":1},{"text":"Bronchiolitis","isCorrect":0}],"text":"Pharyngitis, sneezing, nasal congestion, rhinorrhea, cough, fever "},
-            {"answers":[{"text":"Herpangina","isCorrect":0},{"text":"COVID 19","isCorrect":0},{"text":"Bronchiolitis","isCorrect":1},{"text":"Croup","isCorrect":0}],"text":"Fever, cough, dyspnea, expiratory wheezing, rales, cyanosis.  Tachypnea, flaring of the nostrils, and intercostal chest wall retractions are typical. "},
+            {"answers":[{"text":"Croup","isCorrect":0},{"text":"Herpangina","isCorrect":0},{"text":"Common cold","isCorrect":1},{"text":"Bronchiolitis","isCorrect":0}],"text":"Pharyngitis, sneezing, nasal congestion, rhinorrhea, cough, fever "},
+            {"answers":[{"text":"Herpangina","isCorrect":0},{"text":"Common cold","isCorrect":0},{"text":"Bronchiolitis","isCorrect":1},{"text":"Croup","isCorrect":0}],"text":"Fever, cough, dyspnea, expiratory wheezing, rales, cyanosis.  Tachypnea, flaring of the nostrils, and intercostal chest wall retractions are typical. "},
             {"answers":[{"text":"Febrile pharyngitis","isCorrect":1},{"text":"Acute respiratory syndrome","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0},{"text":"Herpangina","isCorrect":0}],"text":"Pinkeye, sore throat, fever"},
             {"answers":[{"text":"Febrile pharyngitis","isCorrect":0},{"text":"Acute respiratory syndrome","isCorrect":1},{"text":"Herpangina","isCorrect":0},{"text":"Bronchiolitis","isCorrect":0}],"text":"Severe influenza-like syndrome, appearing mostly as tracheobronchitis. Rapid onset of high fever, cough, sore throat, malaise, pharyngitis, cervical lymphadenopathy, and rhinorrhea."}
         ]},
@@ -1448,8 +1448,8 @@
             {"answers":[{"text":"Zoster Virus","isCorrect":0},{"text":"Herpes Simplex Virus","isCorrect":1},{"text":"JC Polyoma Virus","isCorrect":0},{"text":"Cytomegalovirus","isCorrect":0}],"text":"OPPORTUNISTIC pathogen"},
             {"answers":[{"text":"Echovirus","isCorrect":0},{"text":"Rabies virus","isCorrect":0},{"text":"Poliovirus","isCorrect":0},{"text":"HIV","isCorrect":1}],"text":"Retrovirus"},
             {"answers":[{"text":"Echovirus","isCorrect":0},{"text":"Rabies virus","isCorrect":1},{"text":"Poliovirus","isCorrect":0},{"text":"HIV","isCorrect":0}],"text":"Bullet shaped, enveloped ssRNA virus"},
-            {"answers":[{"text":"Poliovirus","isCorrect":0},{"text":"HIV","isCorrect":0},{"text":"Rabies virus","isCorrect":0},{"text":"Echovirus","isCorrect":1}],"text":"Picornaviruses"},
-            {"answers":[{"text":"Echovirus","isCorrect":0},{"text":"Rabies virus","isCorrect":0},{"text":"Poliovirus","isCorrect":1},{"text":"HIV","isCorrect":0}],"text":"Picornavirus family, non-enveloped ssRNA"}
+            {"answers":[{"text":"Poliovirus","isCorrect":0},{"text":"HIV","isCorrect":0},{"text":"Rabies virus","isCorrect":0},{"text":"Echovirus","isCorrect":1}],"text":"Enteroviruses"},
+            {"answers":[{"text":"Echovirus","isCorrect":0},{"text":"Rabies virus","isCorrect":0},{"text":"Poliovirus","isCorrect":1},{"text":"HIV","isCorrect":0}],"text":"Enterovirus family, non-enveloped ssRNA"}
         ]},
 
         {"title":"Disease","questions":[
@@ -1549,7 +1549,7 @@
             {"answers":[{"text":"HPV","isCorrect":0},{"text":"Variola ","isCorrect":1},{"text":"Parvovirus B19","isCorrect":0},{"text":"Varicella Zoster Virus","isCorrect":0}],"text":"Poxviruses"},
             {"answers":[{"text":"Parvovirus B19","isCorrect":1},{"text":"Variola ","isCorrect":0},{"text":"Varicella Zoster Virus","isCorrect":0},{"text":"HPV","isCorrect":0}],"text":"Parvoviruses"},
             {"answers":[{"text":"Coxsackie A","isCorrect":0},{"text":"Rubella virus","isCorrect":1},{"text":"Variola ","isCorrect":0},{"text":"Parvovirus B19","isCorrect":0}],"text":"Paramyxoviruses"},
-            {"answers":[{"text":"Variola ","isCorrect":0},{"text":"Coxsackie A","isCorrect":1},{"text":"Parvovirus B19","isCorrect":0},{"text":"Rubella virus","isCorrect":0}],"text":"Picornaviruses"}
+            {"answers":[{"text":"Variola ","isCorrect":0},{"text":"Coxsackie A","isCorrect":1},{"text":"Parvovirus B19","isCorrect":0},{"text":"Rubella virus","isCorrect":0}],"text":"Enteroviruses"}
         ]},
 
         {"title":"Pathogen","questions":[
@@ -1625,7 +1625,7 @@
 
         {"title":"Virus family","questions":[
             {"answers":[{"text":"Hepatitis C virus","isCorrect":0},{"text":"Hepatitis B virus","isCorrect":1},{"text":"Astroviruses","isCorrect":0},{"text":"Rotavirus","isCorrect":0}],"text":"Hepandnavirsues"},
-            {"answers":[{"text":"Hepatitis C virus","isCorrect":0},{"text":"Hepatitis A virus","isCorrect":1},{"text":"Hepatitis B virus","isCorrect":0},{"text":"Astroviruses","isCorrect":0}],"text":"Picornavirus (enteroviruses)"},
+            {"answers":[{"text":"Hepatitis C virus","isCorrect":0},{"text":"Hepatitis A virus","isCorrect":1},{"text":"Hepatitis B virus","isCorrect":0},{"text":"Astroviruses","isCorrect":0}],"text":"Enterovirus (enteroviruses)"},
             {"answers":[{"text":"Hepatitis B virus","isCorrect":0},{"text":"Astroviruses","isCorrect":0},{"text":"Hepatitis A virus","isCorrect":0},{"text":"Hepatitis C virus","isCorrect":1}],"text":"Hepaciviruses"},
             {"answers":[{"text":"Mumps virus","isCorrect":0},{"text":"Rotavirus","isCorrect":1},{"text":"Astroviruses","isCorrect":0},{"text":"Norovirus","isCorrect":0}],"text":"Reoviruses"},
             {"answers":[{"text":"Astroviruses","isCorrect":0},{"text":"Rotavirus","isCorrect":0},{"text":"Mumps virus","isCorrect":0},{"text":"Norovirus","isCorrect":1}],"text":"Caliciviruses"},
