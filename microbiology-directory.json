@@ -177,115 +177,116 @@
  },
  
  {
-   "Structure": "Nucleoid",
+   "title": "Nucleoid",
    "Function": "contains genetic material",
    "Composition": "circular double-stranded DNA",
    "Bacteria": "all",
    "Notes": "no nuclear membrane"
  },
  {
-   "Structure": "Plasmid",
+   "title": "Plasmid",
    "Function": "contains genes (antibiotic resistance virulence)",
    "Composition": "circular double-stranded DNA",
    "Bacteria": "some",
    "Notes": "may be lost without selective pressure"
  },
  {
-   "Structure": "Ribosome",
+   "title": "Ribosome",
    "Function": "protein synthesis",
    "Composition": "30S & 50S subunits = 70S",
    "Bacteria": "all",
    "Notes": "target for antibiotics"
  },
  {
-   "Structure": "Granules",
+   "title": "Granules",
    "Function": "storage of nutrients",
    "Composition": "varies",
    "Bacteria": "many",
    "Notes": "C. diphtheriae has metachromic granules"
  },
  {
-   "Structure": "Cytoplasmic -inner -cell -plasma membrane",
+   "title": "Cytoplasmic -inner -cell -plasma membrane",
    "Function": "electron transport chain permeability barrier",
    "Composition": "phospholipid bilayer with proteins ",
    "Bacteria": "all",
    "Notes": "No sterols except Mycoplasma"
  },
  {
-   "Structure": "Cell wall - GP and GN",
+   "title": "Cell wall - GP and GN",
    "Function": "protect cytoplasmic membrane rigidity",
    "Composition": "peptidoglycan (NAG NAM amino acids); transpeptidases crosslink amino acids",
    "Bacteria": "all",
    "Notes": "Exception: Mycoplasma lack cell wall; target for antibiotics"
  },
  {
-   "Structure": "Cell wall - mycobacteria",
+   "title": "Cell wall - mycobacteria",
    "Function": "survival in macrophage virulence",
    "Composition": "peptidoglycan lipoarabinomannan mycolic acid",
    "Bacteria": "acid fast only",
    "Notes": "target for antibiotics"
  },
  {
-   "Structure": "Teichoic acid lipoteichoic acid",
+   "title": "Teichoic acid lipoteichoic acid",
    "Function": "adherence inflammatory",
    "Composition": "polymers",
    "Bacteria": "GP only",
    "Notes": ""
  },
  {
-   "Structure": "Outer membrane",
+   "title": "Outer membrane",
    "Function": "hydrophobic permeability barrier",
    "Composition": "phospholipid bilayer with proteins and porins",
    "Bacteria": "GN only",
    "Notes": ""
  },
  {
-   "Structure": "Periplasmic space",
+   "title": "Periplasmic space",
    "Function": "contains thin peptidoglycan layer",
    "Composition": "storage space",
    "Bacteria": "GN only",
    "Notes": ""
  },
  {
-   "Structure": "Lipopolysaccharide",
+   "title": "Lipopolysaccharide",
    "Function": "antigenic (O antigen) toxic (lipid A)",
    "Composition": "polysaccharides fatty acids",
    "Bacteria": "GN only",
    "Notes": ""
  },
  {
-   "Structure": "Pili -fimbriae ",
+   "title": "Pili -fimbriae ",
    "Function": "adhesion -attachment virulence conjugation",
    "Composition": "pilin glycoprotein",
    "Bacteria": "mostly GN",
    "Notes": ""
  },
  {
-   "Structure": "Flagella -axial filaments",
+   "title": "Flagella -axial filaments",
    "Function": "locomotion -motility",
    "Composition": "protein",
    "Bacteria": " GP and GN",
    "Notes": "internal flagella provide corkscrew motility for spirochetes"
  },
  {
-   "Structure": "Capsule -slime layer -glycocalyx",
+   "title": "Capsule -slime layer -glycocalyx",
    "Function": "protection from phagocytosis attachment immunogenic",
    "Composition": "usually polysaccharides",
    "Bacteria": "GP and GN",
    "Notes": "adherent = capsule loose = slime layer"
  },
  {
-   "Structure": "Biofilm",
+   "title": "Biofilm",
    "Function": "protection from phagocytosis attachment",
    "Composition": "polysaccharide matrix",
    "Bacteria": " GP and GN",
    "Notes": ""
  },
  {
-   "Structure": "Endospores",
+   "title": "Endospores",
    "Function": "survival in harsh environment",
    "Composition": "calcium dipicolinate",
    "Bacteria": "GP only",
    "Notes": ""
  }
-]
+ 
+ ]
