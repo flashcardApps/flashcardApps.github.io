@@ -44,7 +44,7 @@
    "Treatment": "amoxicillin amoxicillin - clavulanate cefotaxime; Prevention: Hib conjugate vaccine"
  },
  {
-   "title": "Haemophilus influenzae type-b (Hib)",
+   "title": "Haemophilus influenzae type-b",
    "Key physical properties": "",
    "Disease": "Invasive infections: epiglottitis pneumonia meningitis",
    "Reservoir": "Infected persons or asymptomatic carriers ",
@@ -121,7 +121,7 @@
    "Treatment": "Macrolides or doxycycline"
  },
  {
-   "title": "Chlamydophila psittaci (zoonotic pathogen)",
+   "title": "Chlamydophila psittaci",
    "Key physical properties": "",
    "Disease": "Psittacosis - Parrot Fever ",
    "Reservoir": "Birds",
@@ -205,14 +205,14 @@
    "Notes": "C. diphtheriae has metachromic granules"
  },
  {
-   "title": "Cytoplasmic -inner -cell -plasma membrane",
+   "title": "Cytoplasmic membrane",
    "Function": "electron transport chain permeability barrier",
    "Composition": "phospholipid bilayer with proteins ",
    "Bacteria": "all",
    "Notes": "No sterols except Mycoplasma"
  },
  {
-   "title": "Cell wall - GP and GN",
+   "title": "Cell wall",
    "Function": "protect cytoplasmic membrane rigidity",
    "Composition": "peptidoglycan (NAG NAM amino acids); transpeptidases crosslink amino acids",
    "Bacteria": "all",
@@ -226,7 +226,7 @@
    "Notes": "target for antibiotics"
  },
  {
-   "title": "Teichoic acid lipoteichoic acid",
+   "title": "Teichoic acid",
    "Function": "adherence inflammatory",
    "Composition": "polymers",
    "Bacteria": "GP only",
@@ -268,7 +268,7 @@
    "Notes": "internal flagella provide corkscrew motility for spirochetes"
  },
  {
-   "title": "Capsule -slime layer -glycocalyx",
+   "title": "Glycocalyx",
    "Function": "protection from phagocytosis attachment immunogenic",
    "Composition": "usually polysaccharides",
    "Bacteria": "GP and GN",
@@ -326,7 +326,7 @@
    "Treatment & Prevention": "Empirical therapy: vancomycin + 3rd generation cephalosporin; Chemoprophylaxis: Rifampin"
  },
  {
-   "title": "Meningococcal meningitis Meningococcemia Waterhouse-Friderichsen syndrome",
+   "title": "Meningococcemia",
    "Med Micro": "",
    "Organism": "Neisseria meningitidis",
    "Key properties": "Capsule Serogroups: A B C Y W135",
@@ -362,7 +362,7 @@
    "Treatment & Prevention": "Ampicillin + gentamicin or cefotaxime"
  },
  {
-   "title": "Tuberculous meningitis; Spinal tuberculosis (Pott's Disease)",
+   "title": "Tuberculous meningitis",
    "Med Micro": "People in developing countries",
    "Organism": "Mycobacterium tuberculosis",
    "Key properties": "Acid-fast bacilli slow growth",
@@ -447,7 +447,7 @@
 },
 
  {
-   "title": "Coccidioidimycosis Valley Fever",
+   "title": "Coccidioidimycosis",
    "Pathogen": "Coccidioides immitis ",
    "Key characteristics": "Culture 37C: mold; Tissue: spherules filled with endospores ",
    "Reservoir": "Desert sand - Southwest US",
@@ -513,7 +513,7 @@
    "Treatment": "Azoles"
  },
  {
-   "title": "Zygomycosis (Mucormycosis)",
+   "title": "Zygomycosis",
    "Pathogen": "Rhizopus Mucor Absidia… ",
    "Key characteristics": "Filamentous fungus (mold)",
    "Reservoir": "Ubiquitous in soil ",
@@ -597,7 +597,7 @@
    "Treatment": "Ivermectin"
  },
  {
-   "title": "Cutaneous (hookworm) or visceral (Toxocara) larva migrans",
+   "title": "Cutaneous",
    "Organism": "Dog or Cat Roundworm (hookworm or Toxocara spp)",
    "Transmission": "Hookworm = skin penetration Toxocara = ingestion of eggs",
    "Infective form": "",
@@ -615,16 +615,6 @@
    "Diagnostic forms": "Proglottids and -or eggs in stools; antibody detection",
    "Clinical picture": "Asymptomatic or mild abdominal pains",
    "Treatment": "Praziquantel"
- },
- {
-   "title": "Taeniasis",
-   "Organism": "Taenia solium Pork tapeworm",
-   "Transmission": "Ingestion of raw pork containing cysticerci",
-   "Infective form": "Cysticerci",
-   "Pathogenesis": "Intermediate host = swine; Definitive host = humans",
-   "Diagnostic forms": "",
-   "Clinical picture": "",
-   "Treatment": ""
  },
  {
    "title": "Cysticercosis",
@@ -680,7 +670,7 @@
    "FIELD9": ""
  },
  {
-   "title": "Viridans Streptococci (S. anginosus S. mutans S. salivarius S. mitis)",
+   "title": "Viridans Streptococci",
    "Characteristics": "GPC chains catalase(-)",
    "Reservoir": "normal flora of oral and nasopharyngeal cavities (dental caries)",
    "Transmission": "access bloodstream during dental -oral surgery",
@@ -691,7 +681,7 @@
    "FIELD9": ""
  },
  {
-   "title": "Enterococcus faecalis -faecium",
+   "title": "Enterococcus faecalis",
    "Characteristics": "GPC single cells diplococci or short chains catalase(-) Lancefield antigen: group D",
    "Reservoir": "normal intestinal flora",
    "Transmission": " medical procedures – nosocomial infections ",
@@ -702,7 +692,7 @@
    "FIELD9": ""
  },
  {
-   "title": "Streptococcus bovis ",
+   "title": "Streptococcus bovis",
    "Characteristics": "",
    "Reservoir": "",
    "Transmission": "",
@@ -758,7 +748,7 @@
    "Treatment": "Neutralization of unbound toxins (tetanus immunoglobulin); Supportive treatment; Wound treatment (metronidazole); vaccination"
  },
  {
-   "title": "Cellulitis Gas Gangrene",
+   "title": "Gas Gangrene",
    "Organism": "Clostridium perfringens",
    "Key physical properties": "GPR; spore forming anaerobe",
    "Reservoir": "Environment (spore); GI and genital flora (vegetative form)",
@@ -769,7 +759,7 @@
    "Treatment": "Penicillin + Clindamycin; surgery; hyperbaric chamber"
  },
  {
-   "title": "Osteomyelitis and infectious arthritis (most common cause)",
+   "title": "Osteomyelitis",
    "Organism": "Staphylococcus aureus",
    "Key physical properties": "GPC in clusters",
    "Reservoir": "Humans",
@@ -780,7 +770,7 @@
    "Treatment": "MSSA = nafcillin or oxacillin; MRSA = vancomycin"
  },
  {
-   "title": "Ingestion of water or food contaminated with eggs",
+   "title": "Taenia solium",
    "Organism": "Taenia solium",
    "Key physical properties": "Cysticercosis",
    "Reservoir": "Egg",
@@ -791,7 +781,7 @@
    "Treatment": ""
  },
  {
-   "title": "Eating raw -undercooked wild animal meat",
+   "title": "Trichinella spiralis",
    "Organism": "Trichinella spiralis",
    "Key physical properties": "Trichinosis",
    "Reservoir": "Larva",
@@ -803,7 +793,7 @@
 },
 
  {
-   "title": "Gonorrhea (also rectal or pharyngeal gonorrhea Gonococcal Ophthalmia Neonatorum)",
+   "title": "Neisseria gonorrhoeae",
    "Organism": "Neisseria gonorrhoeae",
    "Key characteristics": "GN diplococci; bean-shaped; oxidase(+); fastidious; facultative intracellular",
    "Reservoir": "Infected patients",
@@ -814,7 +804,7 @@
    "Treatment": "Ceftriaxone (penicillin resistant due to beta-lactamases)"
  },
  {
-   "title": "Chlamydia (urogenital inclusion conjunctivitis pneumonia)",
+   "title": "Chlamydia",
    "Organism": "Chlamydia trachomatis (serovars D to K) ",
    "Key characteristics": "Obligate intracellular pathogen; no peptidoglycan layer; Elementary Body (EB) & Reticulate Body (RB)",
    "Reservoir": "Infected patients",
@@ -825,7 +815,7 @@
    "Treatment": "Azithromycin or Doxycycline "
  },
  {
-   "title": "Lymphogranu-loma Venereum",
+   "title": "Chlamydia trachomatis",
    "Organism": "Chlamydia trachomatis (serovars L1 to L3)",
    "Key characteristics": "same as above",
    "Reservoir": "same as above",
@@ -837,7 +827,7 @@
  },
  {
    "title": "Syphilis",
-   "Organism": "Treponema pallidum ",
+   "Organism": "Treponema pallidum",
    "Key characteristics": "Spirochetes no growth on artificial media endoflagellum obligate pathogen",
    "Reservoir": "Infected patients (highly infectious during primary & secondary syphilis))",
    "Transmission": "Direct contact transplacental infection of fetus (Congenital Syphilis) transfusion IV drug users",
@@ -858,7 +848,7 @@
    "Treatment": "Azithromycin or Ceftriaxone"
  },
  {
-   "title": "Granuloma inguinale or Donovanosis ",
+   "title": "Granuloma inguinale",
    "Organism": "Klebsiella granulomatis",
    "Key characteristics": "Intracellular encapsulated GNR ",
    "Reservoir": "Infected patients",
@@ -869,7 +859,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "title": "Bacterial Vaginosis ",
+   "title": "Bacterial Vaginosis",
    "Organism": "Gardnerella vaginalis + anaerobes",
    "Key characteristics": "Gram-variable coccobacilli",
    "Reservoir": "Human normal flora",
@@ -914,7 +904,7 @@
    "Treatment": "MSSA:penicillinase-resistant penicillins (e.g.nafcillin); MRSA: vancomycin; VRSA: linezolid or daptomycin; For TSST add clindamycin"
  },
  {
-   "title": "Streptococcus pyogenes (GAS)",
+   "title": "Streptococcus pyogenes",
    "Key physical properties": "GPC in chains; catalase(-)",
    "Disease": "Impetigo erysipelas cellulitis scarlet fever toxic shock syndrome",
    "Reservoir": "Contaminated persons",
@@ -981,7 +971,7 @@
    "Treatment": "Topical azole"
  },
  {
-   "title": "Trichophyton Microsporum & Epidermophyton spp.",
+   "title": "Trichophyton Microsporum",
    "Key physical properties": "Molds filamentous fungi",
    "Disease": "Dermatophytoses (Tinea capitis pedis corporis unguium)",
    "Reservoir": "Infected persons animals soil",
@@ -1014,7 +1004,7 @@
    "Treatment": "Itraconazole; Potassium iodine; Amphotericin B (for systemic infections)"
  },
  {
-   "title": "Soil fungi (Clasdosporium Phialophora)",
+   "title": "Soil fungi",
    "Key physical properties": "Dematiaceous molds",
    "Disease": "Chromoblastomycosis",
    "Reservoir": "Soil",
@@ -1025,7 +1015,7 @@
    "Treatment": "Itraconazole"
  },
  {
-   "title": "Soil fungi (Madurella Petriellidium)",
+   "title": "Soil fungi",
    "Key physical properties": "Molds",
    "Disease": "Eumycetoma",
    "Reservoir": "",
@@ -1061,7 +1051,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "title": "Epidemic typhus Brill-Zinsser disease (Recrudescent typhus)",
+   "title": "Epidemic typhus",
    "Organism": "Rickettsia prowazekii (Typhus group)",
    "Characteristics": "GN coccobacilli; gram staining weakly; obligate intracellular pathogens; zoonotic pathogens",
    "Reservoir": "Humans; squirrels",
@@ -1073,7 +1063,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "title": "Endemic typhus (Murine typhus)",
+   "title": "Murine typhus",
    "Organism": "Rickettsia typhi (Typhus group)",
    "Characteristics": "GN coccobacilli; gram staining weakly; obligate intracellular pathogens; zoonotic pathogens",
    "Reservoir": "Rats",
@@ -1097,7 +1087,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "title": "Human Monocytic Ehrlichiosis",
+   "title": "Monocytic Ehrlichiosis",
    "Organism": "Ehrlichia chaffeensis",
    "Characteristics": "GN coccobacilli; gram staining weakly; obligate intracellular pathogens; zoonotic pathogens",
    "Reservoir": "Deer dogs",
@@ -1109,7 +1099,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "title": "Human Anaplasmosis or Granulocytic Anaplasmosis",
+   "title": "Granulocytic Anaplasmosis",
    "Organism": "Anaplasma phagocytophila",
    "Characteristics": "GN coccobacilli; gram staining weakly; obligate intracellular pathogens; zoonotic pathogens",
    "Reservoir": "Sheep cattle rodents deer rodents",
@@ -1121,7 +1111,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "title": " Plague: Bubonic Pneumonic & Septicemic",
+   "title": " Plague",
    "Organism": " Yersinia pestis",
    "Characteristics": "GNR lactose (-) oxidase (-) nonmotile bipolar staining; zoonotic pathogen",
    "Reservoir": " Wild rodents (Sylvanic cycle)",
@@ -1145,7 +1135,7 @@
    "Treatment": "Streptomycin or gentamicin"
  },
  {
-   "title": "Brucellosis (Undulant Fever)",
+   "title": "Brucellosis",
    "Organism": "Brucella spp. (abortus melitensis suis)",
    "Characteristics": "GN coccobacilli facultative intracellular pathogens zoonotic pathogens",
    "Reservoir": "Domestic livestock (cattle goats -sheep pigs)",
@@ -1157,7 +1147,7 @@
    "Treatment": "Doxycycline + rifampin "
  },
  {
-   "title": "Trench fever bacillary angiomatosis subacute endocarditis",
+   "title": "Trench fever",
    "Organism": "Bartonella quintana",
    "Characteristics": "GNR zoonotic pathogen",
    "Reservoir": "Humans",
@@ -1281,7 +1271,7 @@
    "Notes": "uncomplicated UTIs in young women"
  },
  {
-   "title": "Enterococcus faecalis and faecium",
+   "title": "Enterococcus faecalis",
    "Gram Stain": "GPC chains",
    "Biochemicals": "catalase (-); PYR (+); esculin hydrolysis; resistant to bacitracin & optochin 40% bile salts 6.5% NaCl",
    "Other Properties": "alpha or gamma hemolytic; serogroup D",
@@ -1355,7 +1345,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "title": "Watery diarrhea (occasional blood)",
+   "title": "Watery diarrhea",
    "Organism": "Vibrio parahaemolyticus",
    "Key physical properties": "",
    "Virulence factors & Pathogenesis": "Kanagawa hemotoxin → hypersecretion of H2O and Cl; decrease in Na reabsorption",
@@ -1443,7 +1433,7 @@
    "Treatment": "Nitazoxanide"
  },
  {
-   "title": "Hemorrhagic Colitis; Hemolytic Uremic Syndrome (HUS)",
+   "title": "Hemorrhagic Colitis",
    "Organism": "EHEC EnteroHemorrhagic E. coli (O157:H7)",
    "Key physical properties": "Motile; lactose(+) sorbitol(-)",
    "Virulence factors & Pathogenesis": "Attaching & Effacing lesions; Shiga toxin (AB toxin) - cleaves 60S ribosome⇨blocks protein synthesis⇨cell death; circulating shiga toxin can bind to renal tissue ⇨renal failure (HUS)",
@@ -1476,7 +1466,7 @@
    "Treatment": ""
  },
  {
-   "title": "Dysentery-like diarrhea; possible bacteremia",
+   "title": "Dysentery",
    "Organism": "Salmonella enterica (Enteritidis & Typhimurium)",
    "Key physical properties": "Motile; lactose(-)",
    "Virulence factors & Pathogenesis": "Ruffles invasion inflammation Vi antigen (capsule)",
@@ -1498,7 +1488,7 @@
    "Treatment": ""
  },
  {
-   "title": "Dysentery-like diarrhea",
+   "title": "Campylobacter jejuni",
    "Organism": "Campylobacter jejuni et al",
    "Key physical properties": "Thin curved GNR; gull-wing shaped; microaerophile; oxidase(+)",
    "Virulence factors & Pathogenesis": "Damage to intestinal mucosa (translocation invasion); virulence factors poorly defined",
@@ -1542,8 +1532,8 @@
    "Treatment": "Fluoroquinolones (ciprofloxacin)"
  },
  {
-   "title": "Gastritis peptic ulcer gastric adenocarcinoma lymphomas",
-   "Organism": "Helicobacter pylori",
+   "title": "Helicobacter pylori",
+   "Disease": "Gastritis",
    "Key physical properties": "Curved GNR; microaerophile; oxidase (+); catalase (+); urease (+)",
    "Virulence factors & Pathogenesis": "Mucous layer invasion (mucinase flagella) + Alteration of gastric acid production (urease ⇨ ammonium production) ⇨Inflammation of gastric mucosa⇨Tissue destruction",
    "Reservoir": "Stomach of humans and animals",
@@ -1564,7 +1554,7 @@
    "Treatment": "Discontinue implicated antibiotic; Vancomycin or Metronidazole"
  },
  {
-   "title": "Antibiotic-associated pseudomembranous colitis",
+   "title": "Colitis",
    "Organism": "",
    "Key physical properties": "",
    "Virulence factors & Pathogenesis": "",
@@ -1575,7 +1565,7 @@
    "Treatment": ""
  },
  {
-   "title": "Botulism",
+   "title": "Clostridium botulinum",
    "Organism": "Clostridium botulinum",
    "Key physical properties": "Large GPR; Spore forming; Strict anaerobes",
    "Virulence factors & Pathogenesis": "Neurotoxin blocks release of acetylcholine coded by lysogenic prophage",
@@ -1597,7 +1587,7 @@
    "Treatment": "Penicillin + Clindamycin; surgery; hyperbaric chamber"
  },
  {
-   "title": "Bacteroides (B.fragilis)",
+   "title": "Bacteroides",
    "Key physical properties": "GNR",
    "Disease": "Polymicrobial wound infections",
    "Reservoir": "Predominant GI anaerobe",
@@ -1637,7 +1627,7 @@
    "Treatment": "Beta-lactam surgery"
  },
  {
-   "title": "Actinomyces (A.israelii)",
+   "title": "Actinomyces",
    "Key physical properties": "GPR; long branching filaments",
    "Disease": "Actinomycosis",
    "Reservoir": "Normal flora of oral cavity ",
@@ -1794,7 +1784,7 @@
 },
 
  {
-   "title": "poliovirus",
+   "title": "Poliovirus",
    "Genome": "ssRNA",
    "Family": "Enteroviruses",
    "Characteristics": "Picornavirus family non-enveloped ssRNA",
@@ -1884,7 +1874,7 @@
    "Vaccine": "none"
  },
  {
-   "title": "Eastern equine encephalitis virus",
+   "title": "Eastern equine virus",
    "Genome": "",
    "Family": "Togavirus",
    "Characteristics": "",
@@ -1929,7 +1919,7 @@
    "Vaccine": ""
  },
  {
-   "title": "Varicella (Herpes) Zoster Virus",
+   "title": "Zoster Virus",
    "Genome": "",
    "Family": "Herpesviruses",
    "Characteristics": "double stranded DNA virus",
@@ -1945,7 +1935,7 @@
  },
 
  {
-   "title": "Herpes Simplex Virus (HSV-1- HSV-2)",
+   "title": "Herpes Simplex Virus",
    "Genome": "",
    "Family": "",
    "Characteristics": "double stranded enveloped DNA virus",
@@ -2021,7 +2011,7 @@
    "Resolution": "Excellent but shingles is a risk later in life.Considerable mortality in immunosuppressed pts "
  },
  {
-   "title": "Cold sores herpetic whitlow eczema herpeticum disseminated herpes herpes gladitorium",
+   "title": "Eczema",
    "Genome": "DNA",
    "Virus family": "Herpesviruses",
    "Pathogen": "Herpes Simplex Virus (HSV-1-HSV-2)",
@@ -2036,7 +2026,7 @@
    "Resolution": "Good but reactivation infections are common.Considerable mortality in immunosuppressed pts "
  },
  {
-   "title": "Commonplantar or flat warts",
+   "title": "Commonplantar",
    "Genome": "DNA",
    "Virus family": "papillomaviruses",
    "Pathogen": "HPV",
@@ -2066,7 +2056,7 @@
    "Resolution": "30% mortality rate; scarring blindness in survivors"
  },
  {
-   "title": "molluscum contagiousum",
+   "title": "Molluscum contagiousum",
    "Genome": "DNA",
    "Virus family": "",
    "Pathogen": "molluscum contagiousum virus",
@@ -2096,7 +2086,7 @@
    "Resolution": ""
  },
  {
-   "title": "measles",
+   "title": "Measles",
    "Genome": "RNA",
    "Virus family": "Paramyxoviruses",
    "Pathogen": "measles virus (rubeolavirus)",
@@ -2172,7 +2162,7 @@
    "Resolution": "Excellent but shingles is a risk later in life.Considerable mortality in immunosuppressed pts "
  },
  {
-   "title": "Cold sores herpetic whitlow eczema herpeticum disseminated herpes herpes gladitorium",
+   "title": "Cold sores",
    "Genome": "DNA",
    "Virus family": "Herpesviruses",
    "Pathogen": "Herpes Simplex Virus (HSV-1-HSV-2)",
@@ -2187,7 +2177,7 @@
    "Resolution": "Good but reactivation infections are common.Considerable mortality in immunosuppressed pts "
  },
  {
-   "title": "Commonplantar or flat warts",
+   "title": "Flat warts",
    "Genome": "DNA",
    "Virus family": "papillomaviruses",
    "Pathogen": "HPV",
@@ -2262,7 +2252,7 @@
    "Resolution": "Up to 30% of pts will be hospitalized;Pneumonia in ~6% of children and 5-30% of adults. Death rate is ~1:700-1:1000 either from pneumonia or encephalitis"
  },
  {
-   "title": "Ruebella (German measles)",
+   "title": "Ruebella",
    "Genome": "RNA",
    "Virus family": "",
    "Pathogen": "Rubella virus",
@@ -2384,7 +2374,7 @@
    "Resolution": "Occurance and serveity of lesions become less over time but infection is lifelong"
  },
  {
-   "title": "HPV high risk types (16 and 18)",
+   "title": "HPV high risk types",
    "Disease": "cervical warts",
    "Genome": "DNA",
    "Virus family": "papillomaviruses",
@@ -2399,7 +2389,7 @@
    "Resolution": "Excellent if infections are diagnosed and treated."
  },
  {
-   "title": "HPV low risk types (6 and 11)",
+   "title": "HPV low risk types",
    "Disease": "anogenital warts",
    "Genome": "DNA",
    "Virus family": "",
