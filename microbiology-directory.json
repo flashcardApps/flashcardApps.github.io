@@ -302,18 +302,6 @@
    "Treatment & Prevention": "Empirical therapy: ampicillin + cefotaxime or gentamicin"
  },
  {
-   "title": "Escherichia coli",
-   "Med Micro": "",
-   "Organism": "Escherichia coli",
-   "Key properties": "GNR lactose (+) indole (+) Enterobacteriaceae ",
-   "Reservoir": "",
-   "Transmission": "",
-   "Pathogenesis": "K1 capsule pili cytotoxins endotoxin (LPS)",
-   "Clinical Presentation": "",
-   "Diagnosis": "",
-   "Treatment & Prevention": ""
- },
- {
    "title": "Pneumococcal meningitis",
    "Med Micro": "Children and adults",
    "Organism": "Streptococcus pneumoniae",
@@ -636,17 +624,6 @@
 },
 
  {
-   "title": "Staphylococcus aureus",
-   "Characteristics": "GPC clusters catalase(+) coagluase(+) salt tolerant mannitol(+)",
-   "Reservoir": "normal flora (nasal mucosa skin)",
-   "Transmission": "often nosocomial or result of perioperative wound contamination",
-   "Most common type of IE": "most common cause of acute IE: native valve (abnormal or normal)  prosthetic valve (early) IV drug user (tricuspid valve)",
-   "Pathogenesis": "high virulence; Protein A: inhibits phagocytosis;Fibrinogen-binding protein:clumping factor; Coagulases: fibrinogen to a fibrin clot; Cytotoxic toxins:pore-forming toxins; Hyaluronidase breaks down connective tissue; MRSA",
-   "Clinical presentation": " Acute IE: febrile toxic course lasting days to few weeks; Subacute IE: low fever anorexia weakness lasting for more than several weeks",
-   "Culture": "culture: mannitol-salt agar: yellow colonies β-hemolysis",
-   "FIELD9": ""
- },
- {
    "title": "Staphylococcus epidermidis",
    "Characteristics": "GPC clusters catalase(+) coagulase(-) salt tolerant mannitol(-)",
    "Reservoir": "normal skin flora",
@@ -688,17 +665,6 @@
    "Pathogenesis": "associated with colon cancer",
    "Clinical presentation": " Acute IE: febrile toxic course lasting days to few weeks; Subacute IE: low fever anorexia weakness lasting for more than several weeks",
    "Culture": "bile resistant no growth in 6.5% NaCL",
-   "FIELD9": ""
- },
- {
-   "title": "Pseudomonas aeruginosa",
-   "Characteristics": "aerobic GNR motile oxidase(+) Produces pigments ",
-   "Reservoir": "ubiquitous: minimal nutritional requirements",
-   "Transmission": "nosocomial infections",
-   "Most common type of IE": "uncommon complications of pseudomonas bacteremia ; Causes IE in IV drug users and patients with prosthetic heart valves",
-   "Pathogenesis": "Exotoxin A (inhibits protein synthesis) capsule LPS",
-   "Clinical presentation": "",
-   "Culture": "culture: pigments production fruity odor",
    "FIELD9": ""
  },
  {
@@ -891,17 +857,6 @@
    "Diagnosis": "Gram stain; Culture: beta-hemolytic mannitol (+) salt tolerant",
    "Treatment": "MSSA:penicillinase-resistant penicillins (e.g.nafcillin); MRSA: vancomycin; VRSA: linezolid or daptomycin; For TSST add clindamycin"
  },
- {
-   "title": "Streptococcus pyogenes",
-   "Key physical properties": "GPC in chains; catalase(-)",
-   "Disease": "Impetigo erysipelas cellulitis scarlet fever toxic shock syndrome",
-   "Reservoir": "Contaminated persons",
-   "Transmission": "Person to person via direct contact; wound",
-   "Virulence factors & pathogenesis": "Spreading & damage: streptolysins streptokinase hyaluronidase other exo-enzymes",
-   "Clinical Presentation": "Impetigo: honey-colored crust; Erysipelas: involves dermal lymphatics; Cellulitis: involves subcutaneous fat layer; Scarlet fever: diffuse erythematous rash strawberry tongue: TSS: same as above ",
-   "Diagnosis": "Gram stain; Culture: beta-hemoltic bacitricin sensitive PYR(+)",
-   "Treatment": "Penicillin"
- },
 
  {
    "title": "Mycobacterium leprae",
@@ -991,17 +946,6 @@
    "Diagnosis": "Microscopy: copper-colored septate cells in tissue",
    "Treatment": "Itraconazole"
  },
- {
-   "title": "Soil fungi",
-   "Key physical properties": "Molds",
-   "Disease": "Eumycetoma",
-   "Reservoir": "",
-   "Transmission": "",
-   "Virulence factors & pathogenesis": "Multiple granulomas & abscesses with drainage",
-   "Clinical Presentation": "",
-   "Diagnosis": "Microscopy of pus; dark granules containing hyphae",
-   "Treatment": "No efficient antifungal agent; amputation"
-},
 
  {
    "title": "Rocky mountain spotted fever",
@@ -1230,15 +1174,6 @@
    "Notes": ""
  },
  {
-   "title": "Pseudomonas aeruginosa",
-   "Gram Stain": "GNR",
-   "Biochemicals": "oxidase positive; does not ferment sugars (aerobe)",
-   "Other Properties": "blue -green pigments; growth at 42°C fluorescent; fruity odor",
-   "Reservoir": "environment",
-   "Virulence factors & Pathogenesis": " LPS -Lipid A endotoxin; adhesins; capsule; exotoxin A; motility",
-   "Notes": "opportunistic "
- },
- {
    "title": "Staphylococcus saprophyticus",
    "Gram Stain": "GPC clusters",
    "Biochemicals": "catalase (+); coagulase (-); novobiocin resistant",
@@ -1246,15 +1181,6 @@
    "Reservoir": "environment; skin and vagina normal flora",
    "Virulence factors & Pathogenesis": "adhesins; inflammation",
    "Notes": "uncomplicated UTIs in young women"
- },
- {
-   "title": "Enterococcus faecalis",
-   "Gram Stain": "GPC chains",
-   "Biochemicals": "catalase (-); PYR (+); esculin hydrolysis; resistant to bacitracin & optochin 40% bile salts 6.5% NaCl",
-   "Other Properties": "alpha or gamma hemolytic; serogroup D",
-   "Reservoir": "gut normal flora",
-   "Virulence factors & Pathogenesis": "poorly defined",
-   "Notes": "nosocomial infections; drug resistant may be vancomycin resistant"
  },
  {
    "title": "Streptococcus agalactiae",
@@ -1320,17 +1246,6 @@
    "Clinical presentation": "Profuse watery diarrhea; rice-water stools; severe dehydration",
    "Diagnosis": "TCBS (Thiosulfate citrate bile salts sucrose agar) - yellow colonies",
    "Treatment": "Doxycycline"
- },
- {
-   "title": "Watery diarrhea",
-   "Organism": "Vibrio parahaemolyticus",
-   "Key physical properties": "",
-   "Virulence factors & Pathogenesis": "Kanagawa hemotoxin → hypersecretion of H2O and Cl; decrease in Na reabsorption",
-   "Reservoir": "",
-   "Transmission": "",
-   "Clinical presentation": "watery diarrhea mild cholera-like illness",
-   "Diagnosis": "TCBS - clear (blue-green) colonies Halophilic",
-   "Treatment": "Self-limiting"
  },
  {
    "title": "Listeriosis",
@@ -1673,16 +1588,6 @@
    "Treatment": ""
  },
  {
-   "title": "Streptococcus pyogenes",
-   "Key physical properties": "GPC",
-   "Disease": "Necrotizing fasciitis ",
-   "Reservoir": "see Skin infections lecture",
-   "Transmission": "",
-   "Virulence factors & pathogenesis": "M-protein streptococcal pyrogenic exotoxins",
-   "Diagnosis": "see Skin infections lecture",
-   "Treatment": ""
- },
- {
    "title": "S. aureus",
    "Key physical properties": "Skin infections lecture",
    "Disease": "",
@@ -1917,21 +1822,6 @@
  },
 
  {
-   "title": "Shingles",
-   "Genome": "DNA",
-   "Virus family": "Herpesviruses",
-   "Pathogen": "Varicella Zoster Virus",
-   "Key demographic": "Persons > 50 yrs of age",
-   "Reservoir": "Humans ",
-   "Transmission": "Not considered contagious",
-   "Virulence factors & pathogenesis": "Cytolytic virus latent infection causes reactivation infections;; Most frequently affects thoracic nerves ",
-   "Clinical Presentation": "unilateral painful-debilitating rash along a dermatome",
-   "Diagnosis": "VSV-specific IgM antibody in blood PCR for VZV DNA",
-   "Treatment": "",
-   "Prevention": " Zostavax: live attenuated vaccine for pts > 60 years to prevent shingles",
-   "Resolution": "Good but post-herpetic neuralgia can be painful debilitiating and difficult to treat"
- },
- {
    "title": "Eczema",
    "Genome": "DNA",
    "Virus family": "Herpesviruses",
@@ -1975,21 +1865,6 @@
    "Treatment": "Symptomatic only; Notify CDC and health authoriies.",
    "Prevention": "live attentuated virus (cowpox or vaccina) vaccine",
    "Resolution": "30% mortality rate; scarring blindness in survivors"
- },
- {
-   "title": "Molluscum contagiousum",
-   "Genome": "DNA",
-   "Virus family": "",
-   "Pathogen": "molluscum contagiousum virus",
-   "Key demographic": "Children young adults",
-   "Reservoir": "Humans ",
-   "Transmission": "direct contact",
-   "Virulence factors & pathogenesis": "",
-   "Clinical Presentation": "shiny umibilicated growths with a central dimple",
-   "Diagnosis": "Empirical; molluscum bodies seen on histopathology",
-   "Treatment": "Most lesions will resolve on their own; chemical or surgical ablation is an option",
-   "Prevention": "No vaccine",
-   "Resolution": "Good"
  },
  {
    "title": "Erythema infectiosum",
@@ -2113,21 +1988,6 @@
    "Resolution": "Good"
  },
  {
-   "title": "Smallpox",
-   "Genome": "DNA",
-   "Virus family": "Poxviruses",
-   "Pathogen": "Variola ",
-   "Key demographic": "Any age",
-   "Reservoir": "Humans ",
-   "Transmission": "airborne; highly transmissible.Considered a category A bioweapon",
-   "Virulence factors & pathogenesis": "highly pathogenic",
-   "Clinical Presentation": "rash with fever weakness and vessicles-pustules",
-   "Diagnosis": "Dx on empiral grounds; electron microscopy for confirmation",
-   "Treatment": "Symptomatic only; Notify CDC and health authoriies.",
-   "Prevention": "live attentuated virus (cowpox or vaccina) vaccine",
-   "Resolution": "30% mortality rate; scarring blindness in survivors"
- },
- {
    "title": "Molluscum contagiousum",
    "Genome": "DNA",
    "Virus family": "",
@@ -2158,21 +2018,6 @@
    "Resolution": ""
  },
  {
-   "title": "measles",
-   "Genome": "RNA",
-   "Virus family": "Paramyxoviruses",
-   "Pathogen": "measles virus (rubeolavirus)",
-   "Key demographic": "",
-   "Reservoir": "Humans ",
-   "Transmission": "airborne; highly transmissible",
-   "Virulence factors & pathogenesis": "high attack rate; immunosuppressive more virulent in malnourished pts",
-   "Clinical Presentation": "Fever prodrome of CCC&P Koplick's spots Brightly erythematous macules and papules become confluent as rash progresses;  ",
-   "Diagnosis": "Mostly empiric; Isolation of virus from clinical specimena measles IgM antibody Acute and convalescent antibody titers;  ",
-   "Treatment": "Supportive care-Treat complications; Vitamin A supplements ",
-   "Prevention": "MMR vaccine (live attentuated)",
-   "Resolution": "Up to 30% of pts will be hospitalized;Pneumonia in ~6% of children and 5-30% of adults. Death rate is ~1:700-1:1000 either from pneumonia or encephalitis"
- },
- {
    "title": "Ruebella",
    "Genome": "RNA",
    "Virus family": "",
@@ -2187,21 +2032,6 @@
    "Prevention": "",
    "Resolution": "Good but remember that this is a TORCH pathogen!"
  },
- {
-   "title": "Hand-foot-mouth disease",
-   "Genome": "RNA",
-   "Virus family": "Picornaviruses",
-   "Pathogen": "Enteroviruses esp. Coxsackie A",
-   "Key demographic": "Children",
-   "Reservoir": "Humans ",
-   "Transmission": "",
-   "Virulence factors & pathogenesis": "",
-   "Clinical Presentation": "mild fever anorexia malaise and tender vesicularlesionsin mouth and cutaneous lesions on the hands feet or buttocks",
-   "Diagnosis": "usually clinical",
-   "Treatment": "Supportive care and  magic mouthwash ",
-   "Prevention": "No vaccine",
-   "Resolution": "Good"
-},
 
  {
    "title": "Hantaviruses esp. Hantaan virus",
