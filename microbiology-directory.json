@@ -1,6 +1,6 @@
 [
  {
-   "Organism": "Moraxella catarrhalis",
+   "title": "Moraxella catarrhalis",
    "Key physical properties": "GN diplococci",
    "Disease": "otitis media and sinusitis in children; pneumonia and bronchitis in COPD patients",
    "Reservoir": "Normal flora upper respiratory tract",
@@ -11,7 +11,7 @@
    "Treatment": "Amoxicillin-clavulanic acid "
  },
  {
-   "Organism": "Streptococcus pyogenes",
+   "title": "Streptococcus pyogenes",
    "Key physical properties": "GPC in chains or pairs catalase (-) β-hemolytic group A antigen Bacitracin sensitive PYR (+)",
    "Disease": "Strep throat scarlet fever + wide spectrum of diseases throughout the human body",
    "Reservoir": "Nasopharynx & skin ",
@@ -22,7 +22,7 @@
    "Treatment": "Penicillin; has to be treated to prevent non suppurative sequeala (e.g. acute rheumatic fever acute post-streptococcal glomerulo-nephritis)"
  },
  {
-   "Organism": "Corynebacterium diphtheriae",
+   "title": "Corynebacterium diphtheriae",
    "Key physical properties": "GP club-shaped rods; non spore-forming",
    "Disease": "Diphtheria",
    "Reservoir": "Carriers",
@@ -33,7 +33,7 @@
    "Treatment": "Antitoxin serum therapy + penicillin; Prevention: toxoid vaccine (DTaP Tdap DT and Td)"
  },
  {
-   "Organism": "Haemophilus influenzae",
+   "title": "Haemophilus influenzae",
    "Key physical properties": "GN coccobacilli; require X (hemin) & V (NAD) factors",
    "Disease": "Sinusitis & Otitis Media",
    "Reservoir": "Normal flora of nasopharynx",
@@ -44,7 +44,7 @@
    "Treatment": "amoxicillin amoxicillin - clavulanate cefotaxime; Prevention: Hib conjugate vaccine"
  },
  {
-   "Organism": "Haemophilus influenzae type-b (Hib)",
+   "title": "Haemophilus influenzae type-b (Hib)",
    "Key physical properties": "",
    "Disease": "Invasive infections: epiglottitis pneumonia meningitis",
    "Reservoir": "Infected persons or asymptomatic carriers ",
@@ -55,7 +55,7 @@
    "Treatment": ""
  },
  {
-   "Organism": "Bordetella pertussis",
+   "title": "Bordetella pertussis",
    "Key physical properties": "GN coccobacilli fastidious",
    "Disease": "Pertussis (Whooping cough)",
    "Reservoir": "Infected persons asymptomatic carriers ",
@@ -66,7 +66,7 @@
    "Treatment": "Azithromycin or clarithromycin; Prevention: acellular vaccine (DTaP)"
  },
  {
-   "Organism": "Mycobacterium tuberculosis",
+   "title": "Mycobacterium tuberculosis",
    "Key physical properties": "Acid-fast rods; slow growth; facultative intracellular obligate aerobe",
    "Disease": "Tuberculosis",
    "Reservoir": "Infected persons",
@@ -77,7 +77,7 @@
    "Treatment": "Latent TB : Isoniazid; Active TB: [Isoniazid+rifampin+pyrazinamide+ethambutol] for 2 month then [Isoniazid+rifampin] for 4-7 month"
  },
  {
-   "Organism": "Streptococcus pneumoniae",
+   "title": "Streptococcus pneumoniae",
    "Key physical properties": "Lancet-shaped GP diplococcus catalase (-) α-hemolytic Bile soluble Optochin (P disc)-sensitive",
    "Disease": "Sinusitis & Otitis Media Pneumonia (most ommon bacterial cause of CAP) Meningitis",
    "Reservoir": "Normal flora upper respiratory tract",
@@ -88,7 +88,7 @@
    "Treatment": "beta-lactams or 3GC; Prevention: PPSV = 23-valent polysaccharide vaccine PCV= 13-valent conjugated vaccine"
  },
  {
-   "Organism": "Klebsiella pneumoniae",
+   "title": "Klebsiella pneumoniae",
    "Key physical properties": "Enterobacteriaceae family GNR polysaccharide capsule ",
    "Disease": "Pneumonia (typical): in patients with alcoholism COPD diabetes aspiration ",
    "Reservoir": "Human colon and upper respiratory tract",
@@ -99,7 +99,7 @@
    "Treatment": "3rd generation cephalosporin (Ceftazidime) "
  },
  {
-   "Organism": "Mycoplasma pneumoniae",
+   "title": "Mycoplasma pneumoniae",
    "Key physical properties": "Smallest free-living bacteria; No cell wall; surface parasite;Sterols in membrane ",
    "Disease": "Primary atypical - Walking Pneumonia",
    "Reservoir": "Infected persons or asymptomatic carriers ",
@@ -110,7 +110,7 @@
    "Treatment": "Azithromycin or clarithromycin"
  },
  {
-   "Organism": "Chlamydophila pneumoniae",
+   "title": "Chlamydophila pneumoniae",
    "Key physical properties": "Small obligate intracellular pathogen; 2 stages : elementary body (EB) & reticulate body (RB); no peptidoglycan layer in cell wall;energy parasites",
    "Disease": "Atypical Pneumonia",
    "Reservoir": "Infected persons or asymptomatic carriers ",
@@ -121,7 +121,7 @@
    "Treatment": "Macrolides or doxycycline"
  },
  {
-   "Organism": "Chlamydophila psittaci (zoonotic pathogen)",
+   "title": "Chlamydophila psittaci (zoonotic pathogen)",
    "Key physical properties": "",
    "Disease": "Psittacosis - Parrot Fever ",
    "Reservoir": "Birds",
@@ -132,7 +132,7 @@
    "Treatment": "Doxycycline or tetracycline"
  },
  {
-   "Organism": "Coxiella burnetii",
+   "title": "Coxiella burnetii",
    "Key physical properties": "obligate intracellular GNR poorly staining",
    "Disease": "Q fever",
    "Reservoir": "Farm mammals high concentration in placenta",
@@ -143,7 +143,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "Organism": "Legionella pneumophila",
+   "title": "Legionella pneumophila",
    "Key physical properties": "Water organisms GNR; Facultative intracellular pathogen",
    "Disease": "Legionnaire’s disease (atypical pneumonia) in elderly smokers immunocompromised patients",
    "Reservoir": "Ubiquitous in fresh water: free living or parasites of protozoa; Biofilms in water sources",
@@ -154,18 +154,7 @@
    "Treatment": "Macrolides (azithromycin); Prevention: disinfection of water systems "
  },
  {
-   "Organism": "",
-   "Key physical properties": "",
-   "Disease": "Pontiac fever",
-   "Reservoir": "",
-   "Transmission": "",
-   "Pathogenesis": "",
-   "Clinical presentation": "Flu-like illness",
-   "Diagnosis": "",
-   "Treatment": "Self-limiting"
- },
- {
-   "Organism": "Pseudomonas aeruginosa",
+   "title": "Pseudomonas aeruginosa",
    "Key physical properties": "Opportunist pathogen; non-lactose-fermenting GNR",
    "Disease": "Lung infections in Cystic fibrosis patients & immuno-compromized patients. Destructive pneumonia",
    "Reservoir": "Ubiquitous in the environment; transient colonization of the human body ",
@@ -176,7 +165,7 @@
    "Treatment": "Aminoglycoside + antipseudomonal beta-lactam or fluoroquinolone "
  },
  {
-   "Organism": "Bacillus anthracis",
+   "title": "Bacillus anthracis",
    "Key physical properties": "GPR single paired or long serpentine chains (“box car chains”); spore-forming; Polypeptide Capsule",
    "Disease": "Pulmonary Anthrax - Woolsorter's Disease: mediastinal hemorrhagic lymphadenitis",
    "Reservoir": "Ubiquitous - zoonotic",
