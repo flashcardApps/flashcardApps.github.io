@@ -374,7 +374,7 @@
    "Treatment & Prevention": "Isoniazid + rifampin + pyrazinamide + streptomycin"
  },
  {
-   "title": " Subacute to chronic meningitis",
+   "title": "Subacute to chronic meningitis",
    "Med Micro": "Immuno-compromised patients",
    "Organism": "Cryptococcus neoformans",
    "Key properties": "Encapsulated yeast",
@@ -420,18 +420,6 @@
    "Clinical Presentation": "Headaches altered mental status. Progresses slowly (several weeks)",
    "Diagnosis": "Cysts and trophozoites in tissue",
    "Treatment & Prevention": "Azoles in combination"
- },
- {
-   "title": "Granulomatous amebic encephalitis",
-   "Med Micro": "Immuno-competant persons",
-   "Organism": "Balamunthia mandrillaris",
-   "Key properties": "Opportunistic free-living amoebae",
-   "Reservoir": "Soil",
-   "Transmission": "Enter in inhaled dust or via contact with skin wounds -cuts",
-   "Pathogenesis": "Amebae",
-   "Clinical Presentation": "Neurological and -or characteristic skin lesions on central face",
-   "Diagnosis": "Amebae in tissues",
-   "Treatment & Prevention": "Combination therapy"
  },
  {
    "title": "Toxoplasmosis",
@@ -949,17 +937,6 @@
    "Treatment": "Sulfonamides"
  },
  {
-   "title": "Bacillus anthracis",
-   "Key physical properties": "GPR spore forming strict aerobe",
-   "Disease": "Dermal anthrax",
-   "Reservoir": "ubiquitous - zoonotic; soil",
-   "Transmission": "inoculation of spores from environment",
-   "Virulence factors & pathogenesis": "Polypeptide capsule (protection); PA+EF=edema toxin => adenylate cyclase activity; PA+LF=lethal toxin => tissue necrosis",
-   "Clinical Presentation": "Initial erythematous papule progresses to black eschar surrounded by edema",
-   "Diagnosis": "Gram stain culture",
-   "Treatment": "Fluoroquinolones"
- },
- {
    "title": "Malassezia furfur ",
    "Key physical properties": "Lipophilic yeast",
    "Disease": "Pityriasis (tinea) versicolor",
@@ -1111,7 +1088,7 @@
    "Treatment": "Doxycycline"
  },
  {
-   "title": " Plague",
+   "title": "Plague",
    "Organism": " Yersinia pestis",
    "Characteristics": "GNR lactose (-) oxidase (-) nonmotile bipolar staining; zoonotic pathogen",
    "Reservoir": " Wild rodents (Sylvanic cycle)",
@@ -1123,8 +1100,8 @@
    "Treatment": "Streptomycin or gentamicin quarantine"
  },
  {
-   "title": " Tularemia",
-   "Organism": " Francisella tularensis",
+   "title": "Francisella tularensis",
+   "Organism": "Francisella tularensis",
    "Characteristics": "GN coccobacilli requires cysteine facultative intracellular pathogen; zoonotic pathogen",
    "Reservoir": " Wild animals (rabbits squirrels deer…)",
    "Vector": " Tick (Dermacentor) deer fly",
@@ -1195,8 +1172,8 @@
    "Treatment": ""
  },
  {
-   "title": " Leptospirosis",
-   "Organism": " Leptospira interrogans",
+   "title": "Leptospira interrogans",
+   "Organism": "Leptospira interrogans",
    "Characteristics": "Spirochete; motile; slow growth; GN but not seen on gram stain; zoonotic pathogen tight terminal hooks",
    "Reservoir": "Dogs livestock rats wild animals (colonize renal tubules)",
    "Vector": "Shed in urine of infected animals",
@@ -1466,17 +1443,6 @@
    "Treatment": ""
  },
  {
-   "title": "Dysentery",
-   "Organism": "Salmonella enterica (Enteritidis & Typhimurium)",
-   "Key physical properties": "Motile; lactose(-)",
-   "Virulence factors & Pathogenesis": "Ruffles invasion inflammation Vi antigen (capsule)",
-   "Reservoir": "Intestinal tracts of animals (poultry reptiles) and humans",
-   "Transmission": "Fecal-oral; ingestion of comtaminated food (eggs poultry) or water; direct contact with reptiles",
-   "Clinical presentation": "Bloody diarrhea with pus fever abdominal cramps nausea rose spots",
-   "Diagnosis": "Hektoen enteric agar: lac(-) H2S(+)⇨ green colonies with dark center",
-   "Treatment": ""
- },
- {
    "title": "Dysentery-like diarrhea",
    "Organism": "Yersinia enterocolitica",
    "Key physical properties": "Bipolar staining; motile at 25C; lactose (-)",
@@ -1617,7 +1583,7 @@
    "Treatment": ""
  },
  {
-   "title": "Peptococcus and Peptostreptococcus spp.",
+   "title": "Peptococcus",
    "Key physical properties": "GPC",
    "Disease": "",
    "Reservoir": "GI and Oral cavity flora",
@@ -1753,21 +1719,6 @@
    "Resolution": "Generally good outcomes but can lead to sudden death dilated cardiomyopathy or fulminant heart failure"
  },
  {
-   "title": "Adenoviruses",
-   "Virus family": "Adenoviruses",
-   "Genome": "dsDNA",
-   "Key demographic": "",
-   "Disease": "",
-   "Reservoir": "",
-   "Transmission": "respiratory droplets",
-   "Virulence factors & pathogenesis": "non-enveloped virus",
-   "Clinical Presentation": "",
-   "Diagnosis": "",
-   "Treatment": "",
-   "Prevention": "",
-   "Resolution": ""
- },
- {
    "title": "HHV6",
    "Virus family": "Herpesviruses",
    "Genome": "",
@@ -1889,21 +1840,6 @@
    "Vaccine": ""
  },
  {
-   "title": "HIV",
-   "Genome": "",
-   "Family": "Retroviruses",
-   "Characteristics": "retrovirus",
-   "Disease": "Aseptic Meningitis",
-   "Source": "Infected Persons",
-   "Spread": "Contact with infected fluids",
-   "Pathogenesis": "HIV-infected cells infiltrate the CNS (Trojan horse) very soon after peripheral infection and provoke a neuropathological response involving all cell types in the brain.It DOES NOT directly infect neurons.",
-   "Clinically": "headache confusion seizure CN palsies in up to 17% of 1 infection",
-   "Diagnosis": "Imaging: Brain atrophy (enlarged sulci and ventricles)",
-   "Treatment": "HAART (Zidovudine Nevirapine Indinavir + Ritonavir)",
-   "Outcome": "most resolve without treatment → may be associated with faster disease progression ",
-   "Vaccine": ""
- },
- {
    "title": "JC Polyoma Virus",
    "Genome": "dsDNA",
    "Family": "Polyomaviruses",
@@ -1996,21 +1932,6 @@
    "Resolution": "Good but post-herpetic neuralgia can be painful debilitiating and difficult to treat"
  },
  {
-   "title": "Chicken pox",
-   "Genome": "DNA",
-   "Virus family": "Herpesviruses",
-   "Pathogen": "",
-   "Key demographic": "Children ",
-   "Reservoir": "Humans ",
-   "Transmission": "Highly contagious via airborne droplets",
-   "Virulence factors & pathogenesis": "Cytolytic virus produces itchy ulcerating vesicular lesions.",
-   "Clinical Presentation": "vesicular rash most appearent on face and trunk",
-   "Diagnosis": "",
-   "Treatment": "Symptomatic only",
-   "Prevention": "Varivax: live attenuated vaccine for chicken pox",
-   "Resolution": "Excellent but shingles is a risk later in life.Considerable mortality in immunosuppressed pts "
- },
- {
    "title": "Eczema",
    "Genome": "DNA",
    "Virus family": "Herpesviruses",
@@ -2071,7 +1992,7 @@
    "Resolution": "Good"
  },
  {
-   "title": "Slapped cheek syndrome (erythema infectiosum )",
+   "title": "Erythema infectiosum",
    "Genome": "DNA",
    "Virus family": "Parvoviruses",
    "Pathogen": "Parvovirus B19",
@@ -2207,7 +2128,7 @@
    "Resolution": "30% mortality rate; scarring blindness in survivors"
  },
  {
-   "title": "molluscum contagiousum",
+   "title": "Molluscum contagiousum",
    "Genome": "DNA",
    "Virus family": "",
    "Pathogen": "molluscum contagiousum virus",
@@ -2222,7 +2143,7 @@
    "Resolution": "Good"
  },
  {
-   "title": "Slapped cheek syndrome (erythema infectiosum )",
+   "title": "Slapped cheek syndrome",
    "Genome": "DNA",
    "Virus family": "Parvoviruses",
    "Pathogen": "Parvovirus B19",
@@ -2282,21 +2203,6 @@
    "Resolution": "Good"
 },
 
- {
-   "title": "HIV",
-   "Genome": "ssRNA",
-   "Virus family": "Retroviruses",
-   "Key demographic": "HIV+ African-American pts",
-   "Disease": "HIV-associated nephropathy ",
-   "Reservoir": "Humans",
-   "Transmission": "N-A",
-   "Virulence factors & pathogenesis": "See HIV in Systemic Infections. ",
-   "Clinical Presentation": "",
-   "Diagnosis": "N-A",
-   "Treatment": "aggressive HAART; steroids and angiotensin-converting enzyme inhibitors.",
-   "Prevention": "N-A",
-   "Resolution": "Difficult to treat even with good HAART."
- },
  {
    "title": "Hantaviruses esp. Hantaan virus",
    "Genome": "",
