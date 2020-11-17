@@ -174,5 +174,118 @@
    "Clinical presentation": "Fever chills cough malaise headache; rapidly worsening course of fever edema and massive enlargement of mediastinal lymph nodes ; respiratory distress cyanosis and septicemia death ",
    "Diagnosis": "Microscopy; Culture: non-hemolytic adherent colonies",
    "Treatment": "Fluoroquinolones (ciprofloxacin); Rapidly fatal if not treated"
+ },
+ 
+ {
+   "Structure": "Nucleoid",
+   "Function": "contains genetic material",
+   "Composition": "circular double-stranded DNA",
+   "Bacteria": "all",
+   "Notes": "no nuclear membrane"
+ },
+ {
+   "Structure": "Plasmid",
+   "Function": "contains genes (antibiotic resistance virulence)",
+   "Composition": "circular double-stranded DNA",
+   "Bacteria": "some",
+   "Notes": "may be lost without selective pressure"
+ },
+ {
+   "Structure": "Ribosome",
+   "Function": "protein synthesis",
+   "Composition": "30S & 50S subunits = 70S",
+   "Bacteria": "all",
+   "Notes": "target for antibiotics"
+ },
+ {
+   "Structure": "Granules",
+   "Function": "storage of nutrients",
+   "Composition": "varies",
+   "Bacteria": "many",
+   "Notes": "C. diphtheriae has metachromic granules"
+ },
+ {
+   "Structure": "Cytoplasmic -inner -cell -plasma membrane",
+   "Function": "electron transport chain permeability barrier",
+   "Composition": "phospholipid bilayer with proteins ",
+   "Bacteria": "all",
+   "Notes": "No sterols except Mycoplasma"
+ },
+ {
+   "Structure": "Cell wall - GP and GN",
+   "Function": "protect cytoplasmic membrane rigidity",
+   "Composition": "peptidoglycan (NAG NAM amino acids); transpeptidases crosslink amino acids",
+   "Bacteria": "all",
+   "Notes": "Exception: Mycoplasma lack cell wall; target for antibiotics"
+ },
+ {
+   "Structure": "Cell wall - mycobacteria",
+   "Function": "survival in macrophage virulence",
+   "Composition": "peptidoglycan lipoarabinomannan mycolic acid",
+   "Bacteria": "acid fast only",
+   "Notes": "target for antibiotics"
+ },
+ {
+   "Structure": "Teichoic acid lipoteichoic acid",
+   "Function": "adherence inflammatory",
+   "Composition": "polymers",
+   "Bacteria": "GP only",
+   "Notes": ""
+ },
+ {
+   "Structure": "Outer membrane",
+   "Function": "hydrophobic permeability barrier",
+   "Composition": "phospholipid bilayer with proteins and porins",
+   "Bacteria": "GN only",
+   "Notes": ""
+ },
+ {
+   "Structure": "Periplasmic space",
+   "Function": "contains thin peptidoglycan layer",
+   "Composition": "storage space",
+   "Bacteria": "GN only",
+   "Notes": ""
+ },
+ {
+   "Structure": "Lipopolysaccharide",
+   "Function": "antigenic (O antigen) toxic (lipid A)",
+   "Composition": "polysaccharides fatty acids",
+   "Bacteria": "GN only",
+   "Notes": ""
+ },
+ {
+   "Structure": "Pili -fimbriae ",
+   "Function": "adhesion -attachment virulence conjugation",
+   "Composition": "pilin glycoprotein",
+   "Bacteria": "mostly GN",
+   "Notes": ""
+ },
+ {
+   "Structure": "Flagella -axial filaments",
+   "Function": "locomotion -motility",
+   "Composition": "protein",
+   "Bacteria": " GP and GN",
+   "Notes": "internal flagella provide corkscrew motility for spirochetes"
+ },
+ {
+   "Structure": "Capsule -slime layer -glycocalyx",
+   "Function": "protection from phagocytosis attachment immunogenic",
+   "Composition": "usually polysaccharides",
+   "Bacteria": "GP and GN",
+   "Notes": "adherent = capsule loose = slime layer"
+ },
+ {
+   "Structure": "Biofilm",
+   "Function": "protection from phagocytosis attachment",
+   "Composition": "polysaccharide matrix",
+   "Bacteria": " GP and GN",
+   "Notes": ""
+ },
+ {
+   "Structure": "Endospores",
+   "Function": "survival in harsh environment",
+   "Composition": "calcium dipicolinate",
+   "Bacteria": "GP only",
+   "Notes": ""
  }
 ]
