@@ -1531,6 +1531,7 @@
    "Treatment": "Beta-lactam surgery"
  },
  {
+  "available": true,
    "title": "Actinomyces",
    "Key physical properties": "GPR; long branching filaments",
    "Disease": "Actinomycosis",
